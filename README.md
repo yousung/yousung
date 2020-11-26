@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Github languages](https://ionicabizau.github.io/github-profile-languages/api.html?yousung)](https://github.com/yousung)
+
