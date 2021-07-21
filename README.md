@@ -27,9 +27,6 @@
 <!--typescript-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="type script" height="40" style="vertical-align:top; margin:4px">
 
-<!--go-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="golang" height="40" style="vertical-align:top; margin:4px">
-
 <!--dart-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" height="40" style="vertical-align:top; margin:4px">
 
