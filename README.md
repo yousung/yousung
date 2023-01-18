@@ -12,6 +12,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousung)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🧰 Languages and Tools:
 <p align="left">
 <!--lang-->
