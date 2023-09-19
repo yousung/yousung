@@ -96,5 +96,7 @@
 <!--docker-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" height="40" style="vertical-align:top; margin:4px">
 
+
+![hit](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=393959&width=435&lines=Hello%20World;Welcome%20to%20Lovizu)
 </p>
 
