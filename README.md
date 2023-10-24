@@ -9,6 +9,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyousung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=cakephp.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://blog.lovizu.com)  [![Github](https://img.shields.io/github/followers/yousung?label=Follow&style=social)](https://github.com/yousung)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousung&layout=compact)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
