@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousung&layout=compact)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark&locale=kr&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark&locale=kr&hide=prs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 <p align="left">
