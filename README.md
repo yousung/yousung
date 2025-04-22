@@ -7,9 +7,9 @@
 - 💬 개발 이야기 및 토론하는 것을 좋아합니다.
 - 📫 nug22kr@gmail.com 으로 메일 주세요
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousung)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousung&layout=compact)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark&locale=kr&hide=prs&rank_icon=github&count_private=true)](https://github.com/yousung)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yousung&theme=vue-dark&locale=kr&hide=prs&rank_icon=github&count_private=true&show_icons=true)](https://github.com/yousung)
 
 ## 🧰 Languages and Tools:
 <p align="left">
